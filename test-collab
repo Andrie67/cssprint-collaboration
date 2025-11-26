@@ -1,1 +1,8 @@
 System.out.print("Hello");
+if(password!="ireena67")
+    System.out.print("Invalid!");
+else
+    System.out.print("Welcome broskidoski");
+//ayoko na ano ba
+
+System.out.print("PALDOOOOOOOOO");
